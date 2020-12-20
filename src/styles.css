@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: gray;
+}
+h1 {
+  font-style: italic;
+}
+input {
+  height: 10vh;
+  width: 150px;
+  border-radius: 0.5rem;
+}
+.emojiOutput {
+  padding: 1rem;
+  margin: 0.5rem;
+  font-weight: bold;
+}
+.emojiDisplay {
+  font-size: 2rem;
+  padding: 1.5rem;
+  letter-spacing: 1rem;
+  cursor: pointer;
+}
