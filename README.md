@@ -1,2 +1,3 @@
 # Fruits-emoji-interpreter
-Created with CodeSandbox
+
+## Know Your Fruits is an app created using ReactJs. It is fruit emojis interpreter.
