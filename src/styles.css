@@ -12,7 +12,6 @@ input {
   height: 10vh;
   width: 150px;
   border-radius: 0.5rem;
-  margin: 1rem;
 }
 .emojiOutput {
   padding: 1rem;

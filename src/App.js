@@ -36,12 +36,8 @@ export default function App() {
   return (
     <div className="App">
       <h1>Know Your Fruits</h1>
-      <div style={{ fontWeight: "bold" }}>
-        Enter any fruit emoji from below list
-      </div>
       <input onChange={emojiInputHandler}></input>
       <div className="emojiOutput">{meaning}</div>
-      <div style={{ fontWeight: "bold" }}>Choose an emoji from below</div>
       <div className="emojiDisplay">
         {emojiList.map((item) => {
           return (
